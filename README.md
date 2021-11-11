@@ -8,10 +8,10 @@
 
 ##
 
-<a href="https://github.com/mairacosta">
+<a href="https://github.com/maira-costa">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=maira-costa&show_icons=true&theme=radical">
 </a>
-<a href="https://github.com/mairacosta">
+<a href="https://github.com/maira-costa">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=radical">
 </a>
 
