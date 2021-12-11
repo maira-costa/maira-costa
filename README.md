@@ -1,9 +1,9 @@
 ### Hi! 👋
 
 
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning HTML, CSS, JS and Python
 - 👯 I’m looking to collaborate on front-end web development
-- 🤔 I’m looking for help with HTML, CSS and JS
+- 🤔 I’m looking for help with HTML, CSS, JS and Python
 - 😄 Pronouns: she/her
 
 ##
